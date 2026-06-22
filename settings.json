@@ -8,7 +8,7 @@
   "server": {
     "ip": "flopanao67.aternos.me",
     "port": 29606,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": true
+    "place-night": false
   },
   "discord": {
     "enabled": false,
